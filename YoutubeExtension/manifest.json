@@ -1,0 +1,21 @@
+{
+  "name": "YouTube Filter Extension",
+  "version": "1.0",
+  "description": "Filters YouTube videos on the page by views, date, and length.",
+  "manifest_version": 3,
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://www.youtube.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
+
