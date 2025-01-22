@@ -1,0 +1,4 @@
+- 6 x 8 tiles (48 letters in total)
+- Player connect letters to form words
+- Hint granted after 3 4 letters are connected
+- Special word is a connect to the other side
