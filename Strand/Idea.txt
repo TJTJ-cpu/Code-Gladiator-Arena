@@ -1,0 +1,32 @@
+Dota 2 Strand
+
+    MIDLANER
+    SUPPORT
+    CREEPS
+    RADIANT
+    DIRE
+    TOWER
+    ROSHAN
+    BLACKHOLE (Spangram)
+
+F1 Strand
+
+    PITSTOP
+    PODIUM
+    CHICANE
+    DRS
+    POLE
+    APEX
+    STEWARD
+    CHECKEREDFLAG (Spangram)
+
+Basketball Strand
+
+    DRIBBLE
+    REBOUND
+    FASTBREAK
+    THREEPOINTER
+    LAYUP
+    FOUL
+    DUNK
+    BACKBOARD (Spangram)
